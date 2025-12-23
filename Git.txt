@@ -1,2 +1,3 @@
 Hi Hello How are you
 Changed from GITHUB and going to see in the VS CODE
+changed from VS code going to see this in GITHUB
